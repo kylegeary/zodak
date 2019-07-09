@@ -1,5 +1,4 @@
-# Zodak
-The Mystic Code Enforcer of DEGjs
+# Zodak: The Mystic Code Enforcer
 
 ## Problem
 There is no standard of code formatting and linting across the UI team.
