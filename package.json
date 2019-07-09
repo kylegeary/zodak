@@ -1,0 +1,22 @@
+{
+  "name": "zodak",
+  "version": "1.0.0",
+  "description": "Mystic Code Enforcer",
+  "main": "index.js",
+  "scripts": {
+    "test": "zodak"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylegeary/zodak.git"
+  },
+  "keywords": [
+    "zodak"
+  ],
+  "author": "Kyle Geary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylegeary/zodak/issues"
+  },
+  "homepage": "https://github.com/kylegeary/zodak#readme"
+}
